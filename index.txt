@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="image/x-icon" href="logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="img/logo.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <title>Bilgisayarın Tarihsel Gelişimi</title>
@@ -41,11 +41,11 @@
     </style>
 </head>
 
-<body background="body.png">
+<body background="img/body.png">
     <div class="header-top" style="background-color: greenyellow">
         <!--header_top-->
         <div class="social-icons pull-left">
-            <img src="header-top.png" width="100%" height="100%" alt="">
+            <img src="img/header-top.png" width="100%" height="100%" alt="">
         </div>
     </div>
     <div class="container">
@@ -117,13 +117,13 @@
                         öğrenmek içinde kullanılan bu aygıt teller üzerine dizili boncuklardan meydana gelmektedir.
                     </div>
                     <div class="col-sm-3">
-                        <img src="abakus.png" alt="" title="eski bir abaküs">
+                        <img src="img/abakus.png" alt="" title="eski bir abaküs">
                     </div>
                 </div>
                 <br><br>
                 <div class="row">
                     <div class="col-sm-3">
-                        <img src="pascaline.jpg" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/pascaline.jpg" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <div class="col-sm-9">
                         <b>PASCALLINE: </b>Hesap makinesi sayılabilecek ilk ciddi icat Fransız matematikçi Blaise Pascal
@@ -144,11 +144,11 @@
                         yapabiliyordu.
                     </div>
                     <div class="col-sm-3">
-                        <img src="leibnizcarki.jpg" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/leibnizcarki.jpg" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <br><br><br><br><br><br><br>
                     <div class="col-sm-3">
-                        <img src="fark-makinesi.jpg" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/fark-makinesi.jpg" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <div class="col-sm-9">
                         <b>FARK MAKİNASI: </b>Bu konuda ciddi çalışmaları olan bir diğer kişide Charles Babbage
@@ -191,11 +191,11 @@
                     </div>
                     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                     <div class="col-sm-3">
-                        <img src="mark1.png" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/mark1.png" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <br><br><br>
                     <div class="col-sm-3">
-                        <img src="Eniac.jpg" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/Eniac.jpg" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <div class="col-sm-9">
                         <b>ENIAC: </b>Mark–I den kısa bir süre sonra Pensilvanya Üniversitesinde John Mauchly
@@ -212,11 +212,11 @@
                         kullanarak verileri depolayan bilgisayar idi.
                     </div>
                     <div class="col-sm-3">
-                        <img src="univac.png" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/univac.png" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <br><br>
                     <div class="col-sm-3">
-                        <img src="ibm700.jpg" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/ibm700.jpg" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <div class="col-sm-9">
                         <b>IBM 700 SERISI: </b>1950’den sonra vakum tüplerinin sık olarak kullanılmaya
@@ -235,11 +235,11 @@
                         üretilen ilk bilgisayarlardır.
                     </div>
                     <div class="col-sm-3">
-                        <img src="ibm1401.jpg" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/ibm1401.jpg" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <br><br><br><br><br><br><br><br><br>
                     <div class="col-sm-3">
-                        <img src="ibm360.jpg" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/ibm360.jpg" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <div class="col-sm-9">
                         <b>IBM 360: </b>1960 ‘dan sonralar entegre devreler üretilmeye başlandı. Entegreler
@@ -255,11 +255,11 @@
                         birleştirilmesiyle hızlanan ilk merkezi işlem birimi sayılabilir.
                     </div>
                     <div class="col-sm-3">
-                        <img src="intel4004.jpg" alt="" width="100%" title="eski bir abaküs">
+                        <img src="img/intel4004.jpg" alt="" width="100%" title="eski bir abaküs">
                     </div>
                     <br><br><br><br><br><br><br><br><br>
                     <div class="col-sm-3">
-                        <img src="apple1.jpg" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/apple1.jpg" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <div class="col-sm-9">
                         <b>APPLE I: </b>1975 yılında piyasaya çıkan apple iki üniversite öğrencisi tarafından bir evin
@@ -278,12 +278,12 @@
                         vazgeçilmez bir parçası oldu.
                     </div>
                     <div class="col-sm-3">
-                        <img src="ibm.jpg" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/ibm.jpg" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <br><br><br><br><br><br><br><br><br><br><br>
                     <div class="col-sm-3">
                         <br>
-                        <img src="binary-Language.jpg" width="100%" alt="" title="eski bir abaküs">
+                        <img src="img/binary-Language.jpg" width="100%" alt="" title="eski bir abaküs">
                     </div>
                     <div class="col-sm-9">
                         <b>İKİLİ SAYI DÜZENİ: </b>Günümüz bilgisayarlarının temel mantığını oluşturan ikili
@@ -291,7 +291,7 @@
                         sayı sisteminde kullanılırlar. Yani bu sistemde 0 ve 1 sayısından başka sayı yoktur. Bu sayı
                         sistemine ikili sayı sistemi manasında Binary sayılarda denir.
                     </div>
-                    
+
                     <br><br>
 
                 </div>
@@ -385,10 +385,8 @@
         </div>
     </section>
 </footer>
-<a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647;"><i class="fa fa-angle-up"></i></a>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous">
     </script>
-<script src="C:/Desktop/ticaretsitesi/home/static/js/jquery.scrollUp.min.js"></script>
 
 </html>
